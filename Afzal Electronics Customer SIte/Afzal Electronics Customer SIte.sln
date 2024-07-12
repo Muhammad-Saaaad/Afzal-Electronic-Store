@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Afzal Electronics Customer SIte", "Afzal Electronics Customer SIte\Afzal Electronics Customer SIte.csproj", "{58DA568D-7304-4981-B5C4-CFC2E7B5656D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D6A3AEFB-4EB6-4A71-9436-E6B1DA6D1B45}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Customer-Site-Background-transformed (1).jpeg = ..\..\..\Downloads\Customer-Site-Background-transformed (1).jpeg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DA568D-7304-4981-B5C4-CFC2E7B5656D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DA568D-7304-4981-B5C4-CFC2E7B5656D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DA568D-7304-4981-B5C4-CFC2E7B5656D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DA568D-7304-4981-B5C4-CFC2E7B5656D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58CA0377-B254-4B3C-8B43-568DB38B27F0}
+	EndGlobalSection
+EndGlobal

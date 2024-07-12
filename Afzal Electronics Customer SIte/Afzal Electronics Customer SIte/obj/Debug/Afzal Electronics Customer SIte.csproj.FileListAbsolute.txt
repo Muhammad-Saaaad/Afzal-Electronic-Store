@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\bin\Debug\Afzal Electronics Customer SIte.exe.config
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\bin\Debug\Afzal Electronics Customer SIte.exe
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\bin\Debug\Afzal Electronics Customer SIte.pdb
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\obj\Debug\Afzal Electronics Customer SIte.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\obj\Debug\Afzal_Electronics_Customer_SIte.Form1.resources
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\obj\Debug\Afzal_Electronics_Customer_SIte.Properties.Resources.resources
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\obj\Debug\Afzal Electronics Customer SIte.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\obj\Debug\Afzal Electronics Customer SIte.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\obj\Debug\Afzal Electronics Customer SIte.exe
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\obj\Debug\Afzal Electronics Customer SIte.pdb
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\obj\Debug\Afzal_Electronics_Customer_SIte.SignUp.resources
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\obj\Debug\Afzal_Electronics_Customer_SIte.PurchaseProduct.resources
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\obj\Debug\Afzal_Electronics_Customer_SIte.InstallmentPlan.resources
+C:\Users\HP\source\repos\Afzal Electronics Customer SIte\Afzal Electronics Customer SIte\obj\Debug\Afzal_Electronics_Customer_SIte.PayInstallment.resources
