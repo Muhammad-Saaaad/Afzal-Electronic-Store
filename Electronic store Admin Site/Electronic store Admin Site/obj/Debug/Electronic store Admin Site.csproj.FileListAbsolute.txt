@@ -1,0 +1,18 @@
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\bin\Debug\Electronic store Admin Site.exe.config
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\bin\Debug\Electronic store Admin Site.exe
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\bin\Debug\Electronic store Admin Site.pdb
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic store Admin Site.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic_store_Admin_Site.Properties.Resources.resources
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic store Admin Site.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic store Admin Site.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic store Admin Site.exe
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic store Admin Site.pdb
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic_store_Admin_Site.Handle_Products.resources
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic_store_Admin_Site.Approve_purchase_Products.resources
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic_store_Admin_Site.Confirm_Installment.resources
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic_store_Admin_Site.Defaulters.resources
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic_store_Admin_Site.Selling_History.resources
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic_store_Admin_Site.View_Payment.resources
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic_store_Admin_Site.View_Product.resources
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic_store_Admin_Site.txtUserNam.resources
+C:\Users\HP\source\repos\Electronic store Admin Site\Electronic store Admin Site\obj\Debug\Electronic_store_Admin_Site.SignUp.resources
